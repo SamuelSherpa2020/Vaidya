@@ -1,0 +1,6 @@
+@VaidyaApis_HostAddress = http://localhost:5117
+
+GET {{VaidyaApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
